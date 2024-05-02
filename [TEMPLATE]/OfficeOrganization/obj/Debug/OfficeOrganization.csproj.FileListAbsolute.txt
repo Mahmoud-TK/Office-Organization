@@ -1,0 +1,20 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\bin\Debug\OfficeOrganization.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\bin\Debug\OfficeOrganization.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\bin\Debug\OfficeOrganization.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\obj\Debug\OfficeOrganization.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\obj\Debug\OfficeOrganization.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\obj\Debug\OfficeOrganization.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csprojResolveAssemblyReference.cache
+F:\Mahmoud Tarek\Algorithm\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe.config
+F:\Mahmoud Tarek\Algorithm\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe
+F:\Mahmoud Tarek\Algorithm\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.pdb
+F:\Mahmoud Tarek\Algorithm\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.AssemblyReference.cache
+F:\Mahmoud Tarek\Algorithm\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.SuggestedBindingRedirects.cache
+F:\Mahmoud Tarek\Algorithm\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.CoreCompileInputs.cache
+F:\Mahmoud Tarek\Algorithm\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.exe
+F:\Mahmoud Tarek\Algorithm\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.pdb
